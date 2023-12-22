@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sugata Ray Chauuhury</h1>
+<h1 align="center">Hi 👋, I'm Sugata Ray Chaudhury</h1>
 <h3 align="center">A passionate frontend developer and Data scientist from India</h3>
 
 - 👨‍💻 All of my projects are available at [https://codesugata.eu.org/](https://codesugata.eu.org/)
